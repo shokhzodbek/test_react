@@ -1,0 +1,12 @@
+.container {
+  height: 300px;
+  width: 200px;
+  background-color: aqua;
+  border-radius: 10px;
+}
+.container img {
+  width: 100px;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
